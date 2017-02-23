@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_ea946b4c2c75e2c75edbdafcf2021e8b9d1aa514/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.puredata.android-pd-core-1.0.2_ba21bff7e5f6c828f4f57dc401c5de915b9dc999/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.noisepages.nettoyeur-midi-1.0.0-rc1_06a803e71dfc16e29116eaddce11afb0b656856b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_0bf8ad524fed4d61a56663bc32139d8097ad72bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_5198b922e5c9ab8ced0f12d9881481b1cd63b832/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_f2147ef4e28d37a16e1f621088fcb95a1e7c7b9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_20072b0e7da042565a476ddf754ecb321ab6732d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_932ace8d142a4e041ba79802d82f93ab2a7d546d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_0b65c21e96594ee3a0dfded426c4184eccb3c596/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_73412a2c1e613f1cee63f52e4756fc2d508eea05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_b22eca3553725f52b2d85f0b4364171ffbfdc557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_bf96381584f8fe17e3f7b34b6c3c980d2fc91450/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.1.0_c16bd883cf08673360906906cc91fa4dd10fc385/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80ac097d57e606eaba8b0d5f472a3231eae83585">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c7344af4df70229fdac6181052b0118d0c6a7081/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc0ecc6c25c44e611af52d145a1d401e83f6f63a">
+        <dex dex="/Users/student/Documents/andy_buck_lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_444de97405b8661836a883de204ab8b3cfad000f/classes.dex" />
+    </item>
+
+</items>
